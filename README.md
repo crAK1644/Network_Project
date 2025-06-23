@@ -10,8 +10,8 @@ Network_Project/
 ├── TCP SERVER.py     # Python TCP Server
 ├── UDP CLIENT.py     # Python UDP Client
 ├── UDP SERVER.py     # Python UDP Server
-├── README.md          # This file
-└── .idea/             # (Optional) IDE configuration files
+
+
 ```
 
 ## 🚀 How to Run
